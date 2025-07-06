@@ -1,4 +1,3 @@
-// src/components/Section.jsx
 import React, { useEffect, useRef } from 'react';
 import MovieCard from './MovieCard';
 
